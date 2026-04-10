@@ -1,0 +1,84 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#07111C"/>
+  <rect width="1600" height="1200" fill="url(#bgGlow)"/>
+  <circle cx="808" cy="596" r="320" fill="url(#caseGlow)" opacity="0.85"/>
+  <circle cx="808" cy="596" r="278" fill="#121D29" stroke="url(#caseRing)" stroke-width="14"/>
+  <circle cx="808" cy="596" r="214" fill="#0A131C" stroke="rgba(243,223,171,0.16)" stroke-width="4"/>
+
+  <circle cx="808" cy="596" r="146" fill="url(#innerPlate)" stroke="#B88942" stroke-width="10"/>
+  <circle cx="808" cy="596" r="102" fill="#101A22" stroke="#7E97B8" stroke-width="4"/>
+
+  <circle cx="808" cy="596" r="30" fill="#D9B26A"/>
+  <circle cx="808" cy="596" r="10" fill="#FFF2CF"/>
+
+  <g opacity="0.96">
+    <path d="M808 382C928 382 1034 444 1092 540C1124 592 1140 644 1140 712C1028 690 920 620 862 522C828 464 812 422 808 382Z" fill="url(#rotorGold)"/>
+    <path d="M1098 660C1098 824 966 956 802 956C638 956 506 824 506 660C506 628 510 598 518 570C550 724 684 836 842 836C986 836 1104 728 1098 660Z" fill="#23313D" opacity="0.62"/>
+    <circle cx="808" cy="596" r="26" fill="#111922" stroke="#F2D8A0" stroke-width="8"/>
+  </g>
+
+  <g opacity="0.92" stroke-linecap="round">
+    <path d="M808 596L900 548" stroke="#F0D08C" stroke-width="12"/>
+    <path d="M808 596L734 498" stroke="#9FB8D7" stroke-width="8"/>
+    <path d="M808 596L808 706" stroke="#F0D08C" stroke-width="6"/>
+  </g>
+
+  <g opacity="0.9">
+    <circle cx="604" cy="510" r="94" fill="#16222C" stroke="#D4AF68" stroke-width="10"/>
+    <circle cx="604" cy="510" r="54" fill="#0D151D" stroke="#9FB8D7" stroke-width="4"/>
+    <circle cx="604" cy="510" r="18" fill="#E7C57E"/>
+    <path d="M604 448V510L644 534" stroke="#FFF3D4" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.88">
+    <circle cx="1014" cy="742" r="106" fill="#172431" stroke="#D4AF68" stroke-width="10"/>
+    <circle cx="1014" cy="742" r="66" fill="#0D151D" stroke="#90A9C8" stroke-width="4"/>
+    <circle cx="1014" cy="742" r="22" fill="#E7C57E"/>
+  </g>
+
+  <g opacity="0.8" stroke="#D9E5F5" stroke-width="8">
+    <path d="M558 420L662 524"/>
+    <path d="M950 676L1084 810"/>
+    <path d="M700 816L806 710"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="292" y="882" width="1016" height="122" rx="28" fill="#121C27" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+    <circle cx="380" cy="944" r="24" fill="#E7C57E"/>
+    <rect x="430" y="930" width="302" height="18" rx="9" fill="#EDF2F9"/>
+    <rect x="430" y="960" width="210" height="14" rx="7" fill="#8AA0BC"/>
+    <rect x="1040" y="918" width="188" height="54" rx="18" fill="#1D2A36" stroke="#D0AA63" stroke-width="2"/>
+    <circle cx="1080" cy="945" r="11" fill="#F0D08C"/>
+    <rect x="1106" y="938" width="84" height="14" rx="7" fill="#EDF2F9"/>
+  </g>
+
+  <g opacity="0.25" stroke="#FFF3D4" stroke-width="18" stroke-linecap="round">
+    <path d="M246 132C352 242 396 392 394 566"/>
+    <path d="M1322 150C1224 272 1178 416 1184 600"/>
+  </g>
+
+  <defs>
+    <radialGradient id="bgGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(834 530) rotate(90) scale(560 760)">
+      <stop stop-color="#16283A"/>
+      <stop offset="1" stop-color="#07111C"/>
+    </radialGradient>
+    <radialGradient id="caseGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(808 596) rotate(90) scale(320)">
+      <stop stop-color="#203247"/>
+      <stop offset="1" stop-color="#09131D"/>
+    </radialGradient>
+    <linearGradient id="caseRing" x1="528" y1="320" x2="1116" y2="880" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2C380"/>
+      <stop offset="0.48" stop-color="#A37531"/>
+      <stop offset="1" stop-color="#F0D79B"/>
+    </linearGradient>
+    <linearGradient id="innerPlate" x1="662" y1="444" x2="952" y2="748" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F2F3A"/>
+      <stop offset="1" stop-color="#0B131B"/>
+    </linearGradient>
+    <linearGradient id="rotorGold" x1="808" y1="382" x2="1138" y2="714" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3D691"/>
+      <stop offset="0.45" stop-color="#C99847"/>
+      <stop offset="1" stop-color="#8F6729"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#1a1a2e"/>
+  <!-- Watch strap top -->
+  <rect x="155" y="30" width="90" height="80" rx="8" fill="#2a2a4a" stroke="#4a4a7a" stroke-width="1.5"/>
+  <!-- Watch case -->
+  <rect x="130" y="110" width="140" height="80" rx="12" fill="#2a2a4a" stroke="#6a6a9a" stroke-width="2"/>
+  <!-- Watch face -->
+  <rect x="145" y="122" width="110" height="56" rx="8" fill="#0f0f1f" stroke="#5a5a8a" stroke-width="1"/>
+  <!-- Watch dial markers -->
+  <circle cx="200" cy="150" r="2" fill="#8a8ab0"/>
+  <line x1="200" y1="128" x2="200" y2="134" stroke="#8a8ab0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="200" y1="166" x2="200" y2="172" stroke="#8a8ab0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="153" y1="150" x2="159" y2="150" stroke="#8a8ab0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="241" y1="150" x2="247" y2="150" stroke="#8a8ab0" stroke-width="2" stroke-linecap="round"/>
+  <!-- Watch strap bottom -->
+  <rect x="155" y="190" width="90" height="80" rx="8" fill="#2a2a4a" stroke="#4a4a7a" stroke-width="1.5"/>
+  <!-- Strap holes -->
+  <circle cx="200" cy="220" r="3" fill="#0f0f1f"/>
+  <circle cx="200" cy="235" r="3" fill="#0f0f1f"/>
+  <circle cx="200" cy="250" r="3" fill="#0f0f1f"/>
+  <!-- Cleaning brush -->
+  <rect x="300" y="80" width="12" height="60" rx="4" fill="#5a4a3a" stroke="#7a6a5a" stroke-width="1"/>
+  <rect x="295" y="135" width="22" height="20" rx="3" fill="#8a7a6a"/>
+  <!-- Water droplet -->
+  <path d="M340 60 Q347 75 347 82 Q347 93 340 93 Q333 93 333 82 Q333 75 340 60Z" fill="#3a6a8a" opacity="0.7"/>
+</svg>
