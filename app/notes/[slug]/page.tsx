@@ -1,11 +1,9 @@
+export const runtime = "edge";
+
 import { notFound } from "next/navigation";
 
 import { NoteArticlePage } from "@/components/note-article-page";
-import { isNoteSlug, noteSlugs } from "@/lib/notes";
-
-export function generateStaticParams() {
-  return noteSlugs.map((slug) => ({ slug }));
-}
+import { isNoteSlug } from "@/lib/notes";
 
 export default async function NoteDetailRoute({
   params,
